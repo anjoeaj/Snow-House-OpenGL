@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\learning\lynda opengl\gl exp\gl exp\main.cpp(245): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\learning\lynda opengl\gl exp\gl exp\main.cpp(270): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  GL Exp.vcxproj -> D:\Learning\Lynda OpenGL\GL Exp\Debug\GL Exp.exe
